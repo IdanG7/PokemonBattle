@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{D16B8D31-E06A-4E41-A9F6-355A842147D0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GurevichI_PASS3/Classes/Pokemons.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GurevichI_PASS3/Classes/InGamePoke/Venasaur.cs">
     <Files>
-      <File FileName="GurevichI_PASS3/Classes/Pokemons.cs" Line="20" Column="51" IsPinned="True" />
-      <File FileName="GurevichI_PASS3/Classes/InGamePoke/Venasaur.cs" />
-      <File FileName="GurevichI_PASS3/Game1.cs" Line="221" Column="86" />
+      <File FileName="GurevichI_PASS3/Game1.cs" Line="331" Column="1" />
+      <File FileName="GurevichI_PASS3/Classes/Pokemons.cs" Line="67" Column="57" />
+      <File FileName="GurevichI_PASS3/Classes/InGamePoke/Venasaur.cs" Line="68" Column="85" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,12 +11,8 @@
           <Node name="GurevichI_PASS3" expanded="True">
             <Node name="GurevichI_PASS3" expanded="True">
               <Node name="Classes" expanded="True">
-                <Node name="InGamePoke" expanded="True" />
-                <Node name="Pokemons.cs" selected="True" />
-              </Node>
-              <Node name="Content" expanded="True">
-                <Node name="Sprites" expanded="True">
-                  <Node name="Animation" expanded="True" />
+                <Node name="InGamePoke" expanded="True">
+                  <Node name="Venasaur.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
